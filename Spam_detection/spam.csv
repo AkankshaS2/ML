@@ -1,0 +1,21 @@
+message,label
+"Congratulations! You have won a free iPhone. Click the link to claim now",spam
+"Win cash prizes now!!! Reply WIN to participate",spam
+"Limited offer! Get 50% discount on our products",spam
+"You have been selected for a free vacation. Call now!",spam
+"Urgent! Your account has been compromised. Verify immediately",spam
+"Claim your reward points now by clicking this link",spam
+"Free entry in a weekly competition to win tickets",spam
+"Exclusive deal just for you. Buy now!",spam
+"You have won $1000. Send bank details to claim",spam
+"Act now! Limited time offer for premium membership",spam
+"Hey, are we meeting today?",ham
+"Don't forget to bring the notes tomorrow",ham
+"Call me when you reach home",ham
+"Can you send me the assignment file?",ham
+"Let's go for lunch after class",ham
+"I will call you later tonight",ham
+"Are you coming to the meeting?",ham
+"Please review the document I sent",ham
+"Happy birthday! Have a great day",ham
+"See you at the library later",ham
