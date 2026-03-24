@@ -1,0 +1,20 @@
+__label__2 This product is amazing and works perfectly
+__label__1 Completely useless and broke after one use
+__label__2 Excellent quality and fast delivery
+__label__1 Very disappointed with the build quality
+__label__2 Worth every penny highly recommend it
+__label__1 Waste of money do not buy this
+__label__2 Packaging was great and product is awesome
+__label__1 The item stopped working within a week
+__label__2 Super happy with this purchase
+__label__1 Not as described very poor experience
+__label__2 Good value for money and durable
+__label__1 Terrible customer service and bad product
+__label__2 Five stars works like a charm
+__label__1 Cheap material feels very low quality
+__label__2 I love it exceeded my expectations
+__label__1 Product arrived damaged and defective
+__label__2 Highly satisfied will buy again
+__label__1 It is not worth the price at all
+__label__2 Great performance and easy to use
+__label__1 Worst product I have ever purchased
